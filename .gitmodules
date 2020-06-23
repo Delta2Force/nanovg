@@ -1,0 +1,4 @@
+[submodule "cmake-nanovg"]
+	path = cmake-nanovg
+	url = https://github.com/copotron/cmake-nanovg.git
+	branch = master
